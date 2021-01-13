@@ -15,13 +15,13 @@
 <br></br>
 <br><h2><b>How to install and use:-</b></h2></br>
 <br></br>
-1. Simply go ahead and download the zip file provided.
-2. Extract at any path.
-3. Go inside the folder named "Decision-Review-System-using-Python"(without quotes) which will be created in the same directory after you extracted the zip file.
-4. Now, Just click on main.exe file and you're good to start.
-5. After that, you will be promted to select a video file, then simply choose your video file in which you have recorded the clip of match and then click ok.
-6. Then, you will see that the software will be opened and a picture will be shown written "Third Umpire Decision Review System"(Without Quotes)
-7. Finally, Click on the button "Next fast >>"(Without Quotes) to play the video file. And then you can control the video with the buttons given below.
+<br>1. Simply go ahead and download the zip file provided.</br>
+<br>2. Extract at any path.</br>
+<br>3. Go inside the folder named "Decision-Review-System-using-Python"(without quotes) which will be created in the same directory after you extracted the zip file.</br>
+<br>4. Now, Just click on main.exe file and you're good to start.</br>
+<br>5. After that, you will be promted to select a video file, then simply choose your video file in which you have recorded the clip of match and then click ok.</br>
+<br>6. Then, you will see that the software will be opened and a picture will be shown written "Third Umpire Decision Review System"(Without Quotes)</br>
+<br>7. Finally, Click on the button "Next fast >>"(Without Quotes) to play the video file. And then you can control the video with the buttons given below.</br>
 <br></br>
 <br><h2><b>Terms & Conditions:-</b></h2></br>
 <br></br>
