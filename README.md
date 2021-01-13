@@ -1,6 +1,6 @@
 # Decision-Review-System-using-Python
 
-<br><i>This is a Decision Review System(DRS) software which can be used in cricket to determine whether a batsman is out or not.</i></br>
+<br><i>This is a Decision Review System(DRS) software which can be used in cricket to end any confusion(like runout, feilding, lbw, etc.) between players in the match.</i></br>
 <br></br>
 <br><h2><b>Features:-</b></h2></br>
 <br></br>
